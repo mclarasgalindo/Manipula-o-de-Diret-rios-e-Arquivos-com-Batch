@@ -5,50 +5,53 @@ Os comandos BAT (ou batch) são uma sequência de instruções que podem ser exe
 
 ## Comandos comuns em arquivos bat
 
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdlOXc1YnQ3cXRnZzljNzUza2NlbDlxYXU1dmQyOWdsajN1dHFuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wiNJnp9pR2fdTeyDzD/giphy.gif
 ### .echo: 
 Escreve na tela
 #### Exemplo:
-. echo " Hello" >hello.txt
+. ````echo " Hello" >hello.txt````
 
 ### .cls: 
 Limpa os comandos.
 #### Exemplo:
-C:\>cls< enter>
+```C:\>cls< enter>```
 
 ### . move: 
 Move (recorta) um arquivo de um diretório para outro.
 #### Exemplo:
-. MOVE C:\Arquivos\documento.txt C:\Backup\
+. ````MOVE C:\Arquivos\documento.txt C:\Backup\````
 
 ### . rmdir: 
 Comando é ótimo para remover diretórios não usados e vazios de forma segura.
 #### Exemplo:
-. rmdir C:\PastaVazia
+. ````rmdir C:\PastaVazia````
 
 ### . dir : 
 Mostra os arquivos da pasta abaixo, com isso entendo que seria do nível abaixo e não do nível acima. Talvez seja uma questão de nomenclatura.
 #### Exmploe: 
-. dir C:\Usuários\SeuNome\Documentos
+. ````dir C:\Usuários\SeuNome\Documentos````
 
 ### . cd:  
 Serve para navegar entre diretórios e visualizar o diretório atual.
 #### Exemplo:
-. cd C:\Arquivos
+. ````cd C:\Arquivos````
 
 ### . mkdir:  
 é usado para criar novos diretórios ou subdiretórios no sistema.
 #### Exemplo
-. mkdir NovoDiretorio: Cria um diretório chamado "NovoDiretorio" no diretório atual.
+. ``````mkdir NovoDiretorio: Cria um diretório chamado "NovoDiretorio" no diretório atual.``````
 
 ### type: é um comando interno que exibe o conteúdo de um arquivo de texto.
 #### EXemplo
-. type nome_do_arquivo.txt
+. `````type nome_do_arquivo.txt`````
 
 ### rename: serve para mudar o nome de arquivos ou diretórios, desde que o novo nome não exista.
 #### Exemplo
-. rename arquivo.txt novo_arquivo.txt: Renomeia o arquivo "arquivo.txt" para "novo_arquivo.txt".
-. ren C:\Pasta\AntigoDiretorio NovoDiretorio: Renomeia o diretório "AntigoDiretorio" para "NovoDiretorio".
+. ````rename arquivo.txt novo_arquivo.txt: Renomeia o arquivo "arquivo.txt" para "novo_arquivo.txt".````
+. ````ren C:\Pasta\AntigoDiretorio NovoDiretorio: Renomeia o diretório "AntigoDiretorio" para "NovoDiretorio".````
 
 ### TAB: serve para completar.
 #### Exemplo:
-. dir D:<pressione TAB>
+. ````dir D:<pressione TAB>````
+
+![sistemas operacionais](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWl6YXJzMHAzZjMwdmNqdnlzcXI1NndiMWt3bWNxbnNwcTFwZXJjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif)
