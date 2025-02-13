@@ -1,35 +1,42 @@
 # Comandos Bat
-
+![sistemas operacionais](https://lh4.googleusercontent.com/N7Ykm_yaAg2HOFQfn1CJ-Ac-V6ux6K8DKpoBIWXP_wXgZ5eJxJIlgK_-NvvutuOpzVn3NiIEqVyV3G8RRuG9iEQOpMxyv_JfvNTtZaFY1-oGBqMIyeO4CaomWsTJg7SITlSxB-su)
 ## O que são?
 Os comandos BAT (ou batch) são uma sequência de instruções que podem ser executadas no Prompt de Comando (CMD) do Windows. Esses comandos são usados para automatizar tarefas do sistema operacional, como copiar arquivos, mover arquivos, executar programas e muito mais. Um arquivo BAT é basicamente um script com uma extensão .bat, que contém uma série de comandos do sistema operacional que são executados em ordem.
 
 ## Comandos comuns em arquivos bat
 
-### ECHO: Escreve na tela
-#### Exemoplo:
+### .echo: 
+Escreve na tela
+#### Exemplo:
 . echo " Hello" >hello.txt
 
-### CLS: Limpa os comandos.
+### .cls: 
+Limpa os comandos.
 #### Exemplo:
 C:\>cls< enter>
 
-### MOVE: Move (recorta) um arquivo de um diretório para outro.
+### . move: 
+Move (recorta) um arquivo de um diretório para outro.
 #### Exemplo:
 . MOVE C:\Arquivos\documento.txt C:\Backup\
 
-### rmdir: comando é ótimo para remover diretórios não usados e vazios de forma segura.
+### . rmdir: 
+Comando é ótimo para remover diretórios não usados e vazios de forma segura.
 #### Exemplo:
 . rmdir C:\PastaVazia
 
-### dir : mostra os arquivos da pasta abaixo, com isso entendo que seria do nível abaixo e não do nível acima. Talvez seja uma questão de nomenclatura.
+### . dir : 
+Mostra os arquivos da pasta abaixo, com isso entendo que seria do nível abaixo e não do nível acima. Talvez seja uma questão de nomenclatura.
 #### Exmploe: 
 . dir C:\Usuários\SeuNome\Documentos
 
-### cd:  serve para navegar entre diretórios e visualizar o diretório atual.
+### . cd:  
+Serve para navegar entre diretórios e visualizar o diretório atual.
 #### Exemplo:
 . cd C:\Arquivos
 
-### mkdir:  é usado para criar novos diretórios ou subdiretórios no sistema.
+### . mkdir:  
+é usado para criar novos diretórios ou subdiretórios no sistema.
 #### Exemplo
 . mkdir NovoDiretorio: Cria um diretório chamado "NovoDiretorio" no diretório atual.
 
