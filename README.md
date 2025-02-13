@@ -1,11 +1,11 @@
 # Comandos Bat
-![sistemas operacionais](https://lh4.googleusercontent.com/N7Ykm_yaAg2HOFQfn1CJ-Ac-V6ux6K8DKpoBIWXP_wXgZ5eJxJIlgK_-NvvutuOpzVn3NiIEqVyV3G8RRuG9iEQOpMxyv_JfvNTtZaFY1-oGBqMIyeO4CaomWsTJg7SITlSxB-su)
+![sistemas operacionais](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdlOXc1YnQ3cXRnZzljNzUza2NlbDlxYXU1dmQyOWdsajN1dHFuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wiNJnp9pR2fdTeyDzD/giphy.gif)
 ## O que são?
 Os comandos BAT (ou batch) são uma sequência de instruções que podem ser executadas no Prompt de Comando (CMD) do Windows. Esses comandos são usados para automatizar tarefas do sistema operacional, como copiar arquivos, mover arquivos, executar programas e muito mais. Um arquivo BAT é basicamente um script com uma extensão .bat, que contém uma série de comandos do sistema operacional que são executados em ordem.
 
 ## Comandos comuns em arquivos bat
+![sistemas operacionais](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWU0Nm5uZTBveThwZHF6b2ZmNndrbHZjd2M1bDg3M2J6eHc5bXhyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BW51OCstarPBm/giphy.gif)
 
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdlOXc1YnQ3cXRnZzljNzUza2NlbDlxYXU1dmQyOWdsajN1dHFuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wiNJnp9pR2fdTeyDzD/giphy.gif
 ### .echo: 
 Escreve na tela
 #### Exemplo:
