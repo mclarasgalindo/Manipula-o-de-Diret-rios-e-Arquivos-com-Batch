@@ -28,7 +28,7 @@ Comando é ótimo para remover diretórios não usados e vazios de forma segura.
 
 ### . dir : 
 Mostra os arquivos da pasta abaixo, com isso entendo que seria do nível abaixo e não do nível acima. Talvez seja uma questão de nomenclatura.
-#### Exmploe: 
+#### Exemplo: 
 . ````dir C:\Usuários\SeuNome\Documentos````
 
 ### . cd:  
@@ -42,7 +42,7 @@ Serve para navegar entre diretórios e visualizar o diretório atual.
 . ``````mkdir NovoDiretorio: Cria um diretório chamado "NovoDiretorio" no diretório atual.``````
 
 ### type: é um comando interno que exibe o conteúdo de um arquivo de texto.
-#### EXemplo
+#### Exemplo
 . `````type nome_do_arquivo.txt`````
 
 ### rename: serve para mudar o nome de arquivos ou diretórios, desde que o novo nome não exista.
